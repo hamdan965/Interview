@@ -17,7 +17,7 @@ git clone https://github.com/hamdan965/Interview.git
 
 ## Setting Up the Virtual Environment
 
-#Navigate to the project directory:
+Navigate to the project directory:
 
 cd interviewsysol
 
@@ -31,7 +31,7 @@ Activate the virtual environment:
 
 - On macOS and Linux:
 
-  source venv/bin/activate
+  source env/bin/activate
 
 
 
